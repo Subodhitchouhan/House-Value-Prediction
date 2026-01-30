@@ -1,0 +1,6 @@
+streamlit
+numpy>=2.1.0
+pandas>=2.2.0
+scikit-learn>=1.4.2
+joblib
+huggingface_hub
