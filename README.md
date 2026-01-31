@@ -169,7 +169,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Data Distribution Histograms](https://via.placeholder.com/800x600.png?text=Feature+Distributions+Histogram)
+![Data Distribution Histograms](A.DATA_DISTRIBUTION_HISTOGRAM.png)
 
 **Distribution Insights:**
 
@@ -327,7 +327,7 @@ plt.legend()
 plt.show()
 ```
 
-![California Housing Geographical Plot](https://via.placeholder.com/800x600.png?text=Geographical+Distribution+of+House+Prices)
+![California Housing Geographical Plot](B.GEOGRAPHICAL_SCATTERPLOT.png)
 
 **Insights from Geographical Plot:**
 
@@ -360,7 +360,7 @@ plt.title('Feature Correlation Matrix')
 plt.show()
 ```
 
-![Correlation Heatmap](https://via.placeholder.com/800x600.png?text=Correlation+Matrix+Heatmap)
+![Correlation Heatmap](C.correlational_matrix_heatmap.png)
 
 **Key Correlations with Median House Value:**
 
@@ -392,7 +392,7 @@ housing.plot(
 plt.show()
 ```
 
-![Income vs House Value](https://via.placeholder.com/800x600.png?text=Median+Income+vs+House+Value+Scatter+Plot)
+![Income vs House Value](D.scatter_plot_median_income_vs_meadian_house_value.png)
 
 **Insights:**
 - Clear positive linear relationship
@@ -748,11 +748,14 @@ if st.button("Predict House Value"):
 
 #### 9.3 Application Screenshots
 
+**APP LINK:**
+[APP LINK](https://house-value-prediction-bysubodhit.streamlit.app/)
+
 **Main Interface:**
-![App Main Screen](https://via.placeholder.com/800x600.png?text=Streamlit+App+Main+Interface)
+![App Main Screen](App_Start.png)
 
 **Prediction Result:**
-![Prediction Result](https://via.placeholder.com/800x600.png?text=Prediction+Result+Display)
+![Prediction Result](App_Prediction.png)
 
 ---
 
@@ -1094,9 +1097,9 @@ copies or substantial portions of the Software.
 
 **Subodhit Chouhan**
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/subodhitchouhan](https://linkedin.com/in/subodhitchouhan)
-- 🐱 GitHub: [@Subodhitchouhan](https://github.com/Subodhitchouhan)
+- 📧 Email: chouhansubodhit@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/subodhitchouhan/
+- 🐱 GitHub: https://github.com/Subodhitchouhan
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
