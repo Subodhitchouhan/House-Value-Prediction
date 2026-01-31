@@ -9,7 +9,7 @@
 
 **A complete end-to-end Machine Learning project for predicting California house values using Random Forest Regression**
 
-[Live Demo](https://github.com/Subodhitchouhan/House-Value-Prediction) | [Report Bug](https://github.com/Subodhitchouhan/House-Value-Prediction/issues) | [Request Feature](https://github.com/Subodhitchouhan/House-Value-Prediction/issues)
+[Live Demo](https://house-value-prediction-bysubodhit.streamlit.app/) | [Report Bug](https://github.com/Subodhitchouhan/House-Value-Prediction/issues) | [Request Feature](https://github.com/Subodhitchouhan/House-Value-Prediction/issues)
 
 </div>
 
