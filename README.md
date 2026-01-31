@@ -577,6 +577,19 @@ forest_scores = evaluate_model(forest_reg, housing_prepared, housing_labels)
 
 **📊 Performance Comparison Chart:**
 
+graph TD
+    subgraph RMSE Comparison (Lower is Better)
+    LR[Linear Regression: $69,052]
+    DT[Decision Tree: $69,081]
+    RF[Random Forest: $47,730]
+    end
+    
+    style RF fill:#2ecc71,stroke:#fff,stroke-width:2px
+    style LR fill:#3498db,stroke:#fff
+    style DT fill:#e67e22,stroke:#fff
+
+
+
 ![Model Comparison](https://via.placeholder.com/800x400.png?text=Cross-Validation+RMSE+Comparison)
 
 **Key Insights:**
